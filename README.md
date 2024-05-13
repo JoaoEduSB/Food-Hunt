@@ -4,6 +4,6 @@
 <br>
 Prototipagem de um restaurante fictício chamado Food Hunt, desenvolvido no Figma!
 
-[Clique para ver!](https://www.figma.com/design/u35YD0pttw07k8N5OG4NhB/Projeto-4?node-id=6%3A121&t=MDFheCNA7yi4cdGu-1)
+[Clique para ver!](https://www.figma.com/design/u35YD0pttw07k8N5OG4NhB/Projeto-4?node-id=0%3A1&t=rK9heLpK5mnuW3if-1)
 
 
